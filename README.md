@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a motivated student interested in computer science, mathematics and turning my own ideas into working projects – from simulations to a programming language of my own.
-- 🔭 I’m currently working on an own programming language based on python.
+- 🔭 I’m currently working on my own programming language based on python.
 - 🌱 I’m currently learning Dutch and Portuguese.
 - 📫 How to reach me: https://mackrichard.github.io/contact/
 - 😄 Pronouns: he/him
